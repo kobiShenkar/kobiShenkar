@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kobiShenkar
 - 👀 I’m interested in ... c-o-d-e
-- 🌱 I’m currently learning ... React
 - 📫 How to reach me ... wkobiw@gmail.com
 
 <!---
